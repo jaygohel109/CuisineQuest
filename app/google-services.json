@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392714184953",
+    "project_id": "cuisinequest-jay",
+    "storage_bucket": "cuisinequest-jay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392714184953:android:c203a3d78db1649f845a28",
+        "android_client_info": {
+          "package_name": "com.akashdas.recipesearchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0bjaYi2s3AXzsELaT35qM6cUMm6JgXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392714184953:android:dd846424146c99e6845a28",
+        "android_client_info": {
+          "package_name": "com.jaygohel.cuisinequestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0bjaYi2s3AXzsELaT35qM6cUMm6JgXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
